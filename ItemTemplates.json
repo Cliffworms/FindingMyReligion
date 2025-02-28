@@ -1,0 +1,19 @@
+[
+    {
+        "index": 1000,
+		"name": "Amulet of Stendarr",
+		"baseWeight": 0.25,
+		"hitPoints": 800,
+		"capacityOrTarget": 0,
+		"basePrice": 150,
+		"enchantmentPoints": 2300,
+		"rarity": 1,
+		"variants": 0,
+		"drawOrderOrEffect": 0,
+		"isIngredient": false,
+        "worldTextureArchive": 254,
+        "worldTextureRecord": 56,
+		"playerTextureArchive": 0,
+		"playerTextureRecord": 0
+    }
+]
