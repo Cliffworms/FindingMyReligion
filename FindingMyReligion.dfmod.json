@@ -71,7 +71,7 @@
             "Name": "daggerfall expanded textures",
             "IsOptional": false,
             "IsPeer": false,
-            "Version": "0.6.3"
+            "Version": "1.0.0"
         },
         {
             "Name": "ublamf - map blocks addon",
